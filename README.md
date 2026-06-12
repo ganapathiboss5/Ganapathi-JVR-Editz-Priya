@@ -1,4 +1,4 @@
-# Hi there, I'm Asiiff! 👋  <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30px">
+# Hi there, I'm Ganapathi JVR Editz Priya! 👋  <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30px">
 
 <p align="center">
   <img src="https://capsule-render.github.io/api?type=waving&color=0:1f2421,50:216869,100:49a078&height=200&section=header&text=Asiiff%20%7C%20Software%20Developer&fontSize=42&animation=fadeIn&fontColor=ffffff" alt="Header Banner" width="100%"/>
